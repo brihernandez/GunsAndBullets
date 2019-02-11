@@ -7,7 +7,7 @@ namespace GNB
         [Tooltip("Time until the projectile expires.")]
         [SerializeField] private float timeToLive = 5f;
 
-        [Tooltip("Layer on which to check for collisions.")]
+        [Tooltip("Layers to check for collisions.")]
         [SerializeField] private LayerMask hitMask = -1;
 
         [Tooltip("Effect prefab to spawn when the bullet hits something.")]
