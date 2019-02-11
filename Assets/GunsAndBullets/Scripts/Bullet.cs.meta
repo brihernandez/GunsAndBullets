@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88ba6d25b9a33a94dae2c2d80aedb238
+timeCreated: 1549849851
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - impactFxPrefab: {fileID: 198050975068896738, guid: 766fd4072aff0774191c285677f08ec0,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

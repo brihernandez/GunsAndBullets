@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 53dc83f453af7e145b5286cb980a760b
+timeCreated: 1549851573
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {fileID: 114802541005343290, guid: e253167a6353712408293a980ff2fd36,
+      type: 2}
+  - muzzleFlashPrefab: {fileID: 198050975068896738, guid: 6c9cca1c11f9abc4c886c6d9ee895b17,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
