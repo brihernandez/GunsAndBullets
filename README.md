@@ -70,6 +70,10 @@ Remember that bullets are not pooled. If you're running into fire rate limitatio
 
 # Changelog
 
+### 1.1 (Feb 20 2019)
+
+- Fixed bug where bullet would spawn hit effect at own position rather than impact position.
+
 ### 1.0 (Feb 11 2019)
 
 - Released

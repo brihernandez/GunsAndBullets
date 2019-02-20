@@ -87,7 +87,7 @@ namespace GNB
         {
             if (fromImpact == true && impactFxPrefab != null)
             {
-                var impactFx = Instantiate(impactFxPrefab, transform.position, transform.rotation);
+                var impactFx = Instantiate(impactFxPrefab, position, transform.rotation);
                 impactFx.Play();
             }
 
