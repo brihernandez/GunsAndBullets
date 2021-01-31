@@ -3,6 +3,8 @@ This project is a set of generic gun and bullet components to be futher expanded
 
 The goal of this project was to create a sort of "canonical" version of bullet and gun code that I so frequently write and rewrite. Rather than constantly pulling and gutting code from old projects, it'd be nice to have a single package that I can just import.
 
+### **This project is outdated! An updated version of the GunsAndBullets code can be found here: https://github.com/brihernandez/GunsAndBullets2**
+
 ![Guns](Screenshots/guns.gif)
 
 This project was built in **Unity 2017.3.1f1**.
